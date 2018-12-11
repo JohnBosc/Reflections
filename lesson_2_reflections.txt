@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+	- when you initialize a repository, a .git file is created
+	- you need to do that in order to establish communication with git
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	- Staging area is a kind of temporary area created to validate, or to prepare files that is about to be committed.  
+	- it offers a value of verification, this means that it let you know exactly what is on the commiting process path.
