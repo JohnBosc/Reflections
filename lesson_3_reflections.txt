@@ -6,3 +6,5 @@ Describe the differences between forks, clones, and branches. When would you use
 	- forks are used to copy someone's repository to your git account, we use them when we don't have the permission to modify directly someone's repository
 	- clones are used to copy a repository from a git account to a machine's local repository, we use them to work on a specific git repository directly from a local machine and push changes.
 	- branches are create locally, we use them when working through a local repository 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	- facilitate push operation
